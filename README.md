@@ -3,4 +3,4 @@ Um pequeno projeto de cadastro(nome,login,usuario e data de nascimento) que exib
 
 Ultilizando o MySLQ Workbench e o servidor local wampserver;
 
-O objetivo dessa atividade,é desenvolver um programa em php onde o usúario,assim que logado, tenha acesso as minhas atividades em php; 
+O objetivo dessa atividade,é desenvolver um programa em php, onde o usúario,assim que logado, tenha acesso as minhas atividades em php; 
